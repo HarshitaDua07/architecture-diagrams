@@ -163,9 +163,7 @@ Feel free to:
 
 These diagrams are provided as educational resources. Feel free to use, modify, and share them.
 
-## ✨ Credits
 
-Created with ❤️ using [Mermaid Diagrams](https://mermaid.js.org/) - A JavaScript-based diagramming and charting tool that uses Markdown-inspired text definitions to create and modify diagrams dynamically.
 
 ---
 
